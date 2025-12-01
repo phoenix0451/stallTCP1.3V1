@@ -150,3 +150,6 @@ const DEFAULT_SUB_DOMAIN = "sub.cmliussss.net";  // 真实订阅源（用于聚�
 
 **基于 Cloudflare Workers 平台**
 **感谢开源社区提供的优选 IP 思路**
+**致谢Alexandre Kojève做的TCP流媒体优化**
+**致谢天诚大佬COMLiang做的proxyip**
+**感谢天诚交流群各位群友支持**
